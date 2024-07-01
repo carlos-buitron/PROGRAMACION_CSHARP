@@ -1,0 +1,208 @@
+Hola amigos,
+
+Basados en la experiencia de nuestros instructores, les enviamos esta ruta de aprendizaje para las personas que quieren especializarse en tecnologias .NET:
+
+
+
+1. C# y MVC ASP NET Core desde las Bases a Experto
+
+https://www.udemy.com/course/curso-net/?couponCode=VAXIDREZ62
+
+
+
+2. Master Web Api ASP NET Core 9 y Next JS
+
+https://www.udemy.com/course/webapi-net/?couponCode=VAXIDREZ08
+
+
+
+3. Clean Architecture y Programacion Profesional con Web Apis
+
+https://www.udemy.com/course/aspnet-clean-architecture/?couponCode=VAXIDREZ60
+
+
+
+4. Clean Architecture - Parte 2 - Consultas Avanzadas
+
+https://www.udemy.com/course/asp-net-clean-architecture-specification-graphql/?couponCode=VAXIDREZ55
+
+
+
+5. Pruebas Unitarias ASP NET y Unit Testing
+
+https://www.udemy.com/course/net-core-unit-test/?couponCode=VAXIDREZ59
+
+
+
+6. ASP NET Core Clean Architecture - Creacion de  Ecommerce
+
+https://www.udemy.com/course/ecommerce-aspnet-core-react/?couponCode=VAXIDREZ38
+
+
+
+7. Microservices con ASP NET
+
+https://www.udemy.com/course/microservices-net-kafka/?couponCode=VAXIDREZ54
+
+
+
+8. Clean Architecture Microservices con ASP.NET 6 y RabbitMQ
+
+https://www.udemy.com/course/microservices-rabbitmq/?couponCode=VAXIDREZ58
+
+
+
+Para nivel avanzado:
+
+
+
+Clean Architecture y Domain Driven Design en ASP.NET Core 8
+
+https://www.udemy.com/course/clean-architecture/?couponCode=VAXIDREZ18
+
+
+
+Clean Architecture Parte 2 - Authentication y Authorization
+
+https://www.udemy.com/course/clean-architecture-authentication/?couponCode=VAXIDREZ13
+
+
+
+
+
+Cupones de todos nuestros cursos:
+
+
+
+Python Master : Programador de Basico a Experto con Django
+
+https://www.udemy.com/course/python-universidad/?couponCode=VAXIDREZ05
+
+
+
+ASP.NET 8 Web Apis con Blazor y Postgres -Security-SignalR
+
+https://www.udemy.com/course/aspnet-blazor-postgres/?couponCode=VAXIDREZ19
+
+
+
+ASP.NET Core 8 en Arquitectura gRPC - Taller Sistemas
+
+https://www.udemy.com/course/aspnet-grpc/?couponCode=VAXIDREZ22
+
+
+
+.NET MAUI desde las bases hasta Profesional | Android | IOS
+
+https://www.udemy.com/course/maui-net/?couponCode=VAXIDREZ35
+
+
+
+ASP.NET Core y Angular en Kubernetes | Google Cloud Platform
+
+https://www.udemy.com/course/aspnet-angular-kubernetes/?couponCode=VAXIDREZ44
+
+
+
+Microservicios Spring Boot y Angular | MySql | Postgres
+
+https://www.udemy.com/course/microservicios-springboot-angular/?couponCode=VAXIDREZ46
+
+
+
+Design Patterns y Arquitectura en NET C#
+
+https://www.udemy.com/course/patrones/?couponCode=VAXIDREZ46
+
+
+
+Java Microservices con Kafka | Spring Boot | Event Sourcing
+
+https://www.udemy.com/course/java-microservices/?couponCode=VAXIDREZ57
+
+
+
+Clean Architecture Microservices con ASP.NET 6 y RabbitMQ
+
+https://www.udemy.com/course/microservices-rabbitmq/?couponCode=VAXIDREZ58
+
+
+
+ASP.NET Core Clean Architecture y Domain Driven Design (DDD)
+
+https://www.udemy.com/course/aspnet-clean-architecture/?couponCode=VAXIDREZ60
+
+
+
+Django, Postgres y Angular | Integracion Fullstack
+
+https://www.udemy.com/course/django-angular/?couponCode=VAXIDREZ58
+
+
+
+La Ruta de Python | Django Fullstack Developer
+
+https://www.udemy.com/course/la-ruta-de-python-django/?couponCode=VAXIDREZ60
+
+
+
+Desarrollo Profesional Angular | Para Programadores Reales
+
+https://www.udemy.com/course/master-angular-aspnet-core/?couponCode=VAXIDREZ60
+
+
+
+Master Blazor y ASP.NET Core
+
+https://www.udemy.com/course/master-blazor-aspnet-core/?couponCode=VAXIDREZ57
+
+
+
+ASP.NET Core 7 WebApis Restful, React, Redis, SQL Server
+
+https://www.udemy.com/course/ecommerce-con-aspnet-core-5-react-hooks/?couponCode=VAXIDREZ55
+
+
+
+DevOps y Docker Kubernetes Microservice Azure - ASP.NET Core
+
+https://www.udemy.com/course/devops-docker-kubernetes-microservice-azure-net-core-5/?couponCode=VAXIDREZ58
+
+
+
+Kubernetes y Docker | NET | en Azure y Google Cloud Platform
+
+https://www.udemy.com/course/kubernetes-dockers/?couponCode=VAXIDREZ56
+
+
+
+MEAN Stack: Master NodeJS y Angular
+https://www.udemy.com/course/master-deno-angular/?couponCode=VAXIDREZ57
+
+
+
+Microservicios con ASP.NET Core | Angular | MongoDB | Docker
+
+https://www.udemy.com/course/microservicios-aspnet-core-5-angular-mongodb/?couponCode=VAXIDREZ50
+
+
+
+Microservicios con ASP.NET Core,Docker y RabbitMQ
+
+https://www.udemy.com/course/microservices-con-aspnet-core-y-docker-en-azure/?couponCode=VAXIDREZ53
+
+
+
+Entity Framework Core y SQL Server/MySQL desde cero
+
+https://www.udemy.com/course/net-core-entity-framework-core/?couponCode=VAXIDREZ53
+
+
+
+ASP.NET Core Web API Bootcamp | Construye REST APIs | SQL
+
+https://www.udemy.com/course/aspnet-core-react-hooks/?couponCode=VAXIDREZ56
+
+
+
+https://open.substack.com/pub/vaxidrez/p/enviar-emails-con-asp-net-core-8?r=2pqn68&utm_campaign=post&utm_medium=web
